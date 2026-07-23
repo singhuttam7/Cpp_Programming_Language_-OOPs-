@@ -34,8 +34,8 @@ int main(){
     number n4 = (n1 - n2);
     number n5 = (n1 * n2);
     n3.display();
-    n4.display();
-    n5.display();
+    //n4.display();
+    //n5.display();
     
     return 0;
     
